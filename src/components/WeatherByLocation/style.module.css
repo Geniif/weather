@@ -1,0 +1,40 @@
+.container {
+  height: 83.3vh;
+  background-image: url("../../assets/images/sunny.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+.nameCity {
+  margin: 0px;
+  padding: 30px;
+  font-size: 70px;
+}
+
+.temperature {
+  margin: 0px;
+  padding: 20px;
+  font-size: 120px;
+}
+
+.weather {
+  margin: 0px;
+  padding: 20px;
+  font-size: 65px;
+}
+
+.containerInformation {
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 110px;
+}
+
+.informationTag {
+  margin: 0px;
+  padding: 0px;
+  font-size: 35px;
+}

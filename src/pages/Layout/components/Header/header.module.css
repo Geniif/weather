@@ -1,0 +1,19 @@
+.container {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  background-color: darkslategrey;
+  height: 80px;
+}
+
+.navigation {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0px 20px 5px 20px;
+  font-size: 25px;
+  padding: 20px;
+}
+
+.colorText {
+  color: black;
+}

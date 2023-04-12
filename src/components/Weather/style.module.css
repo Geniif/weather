@@ -1,0 +1,66 @@
+.container {
+  height: 90vh;
+  background-image: url("../../assets/images/sunny.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+.inputLine {
+  margin: 20px;
+  padding: 5px;
+  background-color: #00a8ff;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.buttonSend {
+  margin: 10px 0px 0px 0px;
+  padding: 5px;
+  background-color: #00a8ff;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 15px;
+}
+
+.nameCity {
+  margin: 0px;
+  padding: 30px;
+  font-size: 70px;
+}
+
+.temperature {
+  margin: 0px;
+  padding: 20px;
+  font-size: 120px;
+}
+
+.weather {
+  margin: 0px;
+  padding: 20px;
+  font-size: 65px;
+}
+
+.containerInformation {
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 90px;
+}
+
+.informationTag {
+  margin: 0px;
+  padding: 0px;
+  font-size: 35px;
+}
+
+.image {
+  height: 120px;
+  width: 120px;
+}
